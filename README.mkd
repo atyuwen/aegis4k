@@ -1,0 +1,5 @@
+My first track for 4k via 4klang synthesizer. A simple shader is used for spectrum visualization.
+
+![screenshot](https://github.com/atyuwen/aegis4k/raw/master/snap.png)
+
+All source files are uploaded, including the 4klang patch file and Cubase5 project. See the "mzk" folder if interested.
